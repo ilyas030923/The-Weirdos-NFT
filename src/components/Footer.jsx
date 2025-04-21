@@ -26,21 +26,21 @@ const Footer = () => {
           <Logo />
           <IconList>
             <a
-              href="http://twitter.com/israelmitolu"
+              href="http://twitter.com"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Twitter />
             </a>
             <a
-              href="http://linkedin.com/in/israeloyetunji"
+              href="https://www.linkedin.com/in/ilyas-bouelbaraka-b247552a2/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <LinkedIn />
             </a>
             <a
-              href="http://instagram.com/devmitoluu"
+              href="http://instagram.com"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -76,7 +76,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Israel Mitolu
+            Ilyas Bouelbaraka
           </a>
         </span>
       </Credits>

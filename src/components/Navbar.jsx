@@ -37,16 +37,13 @@ const Navbar = () => {
             <div className="mobile">
               <Button
                 text="View on Github"
-                link="https://github.com/israelmitolu"
+                link="https://github.com/ilyas030923"
               />
             </div>
           </ListItem>
         </Menu>
         <div className="desktop">
-          <Button
-            text="View on Github"
-            link="https://github.com/israelmitolu"
-          />
+          <Button text="View on Github" link="https://github.com/ilyas030923" />
         </div>
       </Nav>
     </Section>
