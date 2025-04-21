@@ -7,7 +7,7 @@ This project was built using React JS and Styled Components to create a website 
 ![Weirdos NFT Screenshot](public/Weirdos%20NFT-screenshot.jpg)
 
 View Demo👇:
-https://weirdos-nft.netlify.app/
+https://the-weirdos-nft.netlify.app/
 
 ## Resources Used in This Project
 
